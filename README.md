@@ -7,7 +7,7 @@ Change python version before instalation (install and use `pyenv` for different 
 ```txt
 # .python-version
 
-3.12.5
+3.10.12
 ```
 
 Define placement of `.venv` folder local
@@ -33,3 +33,7 @@ virtualenvs.prefer-active-python = true
 Use `docker-compose` folder for difinition of docker images, related to development.
 
 Use `research` folder for experiments.
+
+## A First Course on Data Structures in Python
+
+[link](https://donsheehy.github.io/datastructures/)

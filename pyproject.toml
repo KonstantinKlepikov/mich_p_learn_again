@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "py-project-template"
+name = "python-mich_learn"
 version = "0.0.0"
-description = "py-project-template"
-authors = ["Some Author <example@example.com>"]
+description = "python-mich_learn"
+authors = ["Konstantin Klepikov <oformleno@gmail.com>"]
 readme = "README.md"
 
 
