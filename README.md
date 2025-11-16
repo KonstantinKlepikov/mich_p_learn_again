@@ -36,4 +36,4 @@ Use `research` folder for experiments.
 
 ## A First Course on Data Structures in Python
 
-[link](https://donsheehy.github.io/datastructures/)
+[link](https://donsheehy.github.io/datastructures/) to book page

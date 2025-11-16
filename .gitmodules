@@ -1,0 +1,3 @@
+[submodule "src/datastructures"]
+	path = src/datastructures
+	url = https://github.com/donsheehy/datastructures
